@@ -6,7 +6,7 @@
   "keywords": ["scroll", "animate", "scroll-to"],
   "dependencies": {
     "component/raf": "1.0.0",
-    "component/tween": "1.0.0"
+    "component/tween": "master"
   },
   "development": {
     "component/event": "*"
